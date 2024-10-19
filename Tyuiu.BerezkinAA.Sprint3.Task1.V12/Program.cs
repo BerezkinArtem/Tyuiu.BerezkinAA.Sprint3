@@ -23,6 +23,7 @@ namespace Tyuiu.BerezkinAA.Sprint3.Task1.V12
             Console.WriteLine("* ИСХОДНЫЕ ДАННЫЕ:                                                        *");
             Console.WriteLine("***************************************************************************");
 
+
             int value = 5;
             int startValue = 1;
             int stopValue = 10;
