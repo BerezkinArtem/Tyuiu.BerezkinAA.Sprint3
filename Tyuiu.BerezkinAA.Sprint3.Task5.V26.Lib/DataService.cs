@@ -12,7 +12,7 @@ namespace Tyuiu.BerezkinAA.Sprint3.Task5.V26.Lib
             {
                 for (k = startValue2; k <= stopValue2; k++)
                 {
-                    sumSeries = sumSeries + (x + Math.Sin(k));
+                    sumSeries = sumSeries + (Math.Pow(x, k) + Math.Sin(k));
                 }
             }
             return Math.Round(sumSeries, 3);
