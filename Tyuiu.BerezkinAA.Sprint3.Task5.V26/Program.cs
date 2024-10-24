@@ -12,14 +12,13 @@ namespace Tyuiu.BerezkinAA.Sprint3.Task5.V26
             Console.Title = "Спринт #3 | Выполнил: Березкин А. А. | ИСПб-24-1";
             Console.WriteLine("***************************************************************************");
             Console.WriteLine("* Спринт #3                                                               *");
-            Console.WriteLine("* Тема: Оператор цикла while                                              *");
-            Console.WriteLine("* Задание #2                                                              *");
-            Console.WriteLine("* Вариант #13                                                             *");
+            Console.WriteLine("* Тема: Вложенные циклы                                                   *");
+            Console.WriteLine("* Задание #5                                                              *");
+            Console.WriteLine("* Вариант #26                                                             *");
             Console.WriteLine("* Выполнил: Березкин Артем Андреевич | ИСПб-24-1                          *");
             Console.WriteLine("***************************************************************************");
-            Console.WriteLine("* УСЛОВИЕ:                                                                *");
-            Console.WriteLine("* Написать программу используя цикл do...while, которая вычисляет сумму   *");
-            Console.WriteLine("* ряда по формуле, при x = 0.7                                            *");
+           
+           
             Console.WriteLine("***************************************************************************");
             Console.WriteLine("* ИСХОДНЫЕ ДАННЫЕ:                                                        *");
             Console.WriteLine("***************************************************************************");
