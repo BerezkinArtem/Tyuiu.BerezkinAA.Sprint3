@@ -8,6 +8,7 @@ namespace Tyuiu.BerezkinAA.Sprint3.Task0.V25.Test
         [TestMethod]
         public void ValidGetSumSeries()
         {
+
             DataService ds = new DataService();
 
             int value = 5;
